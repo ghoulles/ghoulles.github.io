@@ -1,0 +1,3 @@
+[submodule "Jekyll-Restaurant-Template"]
+	path = Jekyll-Restaurant-Template
+	url = https://github.com/klcodanr/Jekyll-Restaurant-Template.git
